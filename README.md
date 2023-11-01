@@ -1,6 +1,6 @@
 # emby2goindex
 
-使用 njs 攔截 emby 的播放地址到 goindex
+使用 njs 攔截 emby 的播放地址到 goindex 實現直連 Google Drive 不走伺服器流量
 1. goindex script for cloudflare workers
    原腳本來自 Achrou/goindex-theme-acrou，增加了對捷徑的支持
 2. nginx docker compose by bpking
